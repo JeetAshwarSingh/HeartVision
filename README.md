@@ -198,9 +198,8 @@ During execution the application displays:
 
 ## Live Detection
 
-```
-images/live_detection.png
-```
+
+![](images/live_detection.png)
 
 > Webcam interface while the system is collecting physiological information before heart rate estimation.
 
@@ -208,9 +207,9 @@ images/live_detection.png
 
 ## Final Heart Rate
 
-```
-images/final_result.png
-```
+
+![](images/final_result.png)
+
 
 > Final result after quasi-periodicity has been detected and a stable heart rate has been estimated.
 
@@ -218,9 +217,8 @@ images/final_result.png
 
 ## Heart Rate & Spectral SNR
 
-```
-images/hr_snr_plot.png
-```
+
+![](images/hr_snr_plot.png)
 
 Shows
 
@@ -233,9 +231,9 @@ These plots illustrate convergence toward a stable physiological signal.
 
 ## rPPG Waveform
 
-```
-images/rppg_waveform.png
-```
+
+![](images/rppg_waveform.png)
+
 
 Final 10-second processed Blood Volume Pulse (BVP) waveform obtained from the POS algorithm.
 
@@ -243,9 +241,9 @@ Final 10-second processed Blood Volume Pulse (BVP) waveform obtained from the PO
 
 ## Raw RGB Signal
 
-```
-images/raw_rgb_signal.png
-```
+
+![](images/raw_rgb_signal.png)
+
 
 Temporal RGB intensity values extracted from the forehead Region of Interest.
 
