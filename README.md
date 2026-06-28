@@ -420,7 +420,7 @@ If you use this project in your research, please cite:
 
 ---
 
-# License
+# Contribution Guidelines
 
 This project is intended for academic, educational and research purposes.
 Pull requests are welcome to this repository. If you are planning to do something, consider opening an issue first so we can discuss the direction before you may write the code.
