@@ -66,7 +66,7 @@ Detrending
 Butterworth Bandpass Filter
     │
     ▼
-FFT
+   FFT
     │
     ▼
 Heart Rate Estimation
@@ -281,8 +281,8 @@ The report includes:
 │   ├── rppg_waveform.png
 │   └── raw_rgb_signal.png
 │
-├── reports/
-│   └── generated HTML reports
+├── generated HTML reports
+│   
 │
 ├── main.py
 ├── README.md
@@ -296,7 +296,7 @@ The report includes:
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/rppg-live-pos.git
+git clone https://github.com/JeetAshwarSingh/HeartVision.git
 ```
 
 Install dependencies
@@ -376,22 +376,6 @@ Reported benchmark performance on the **UBFC-rPPG** dataset from later comparati
 * Dark environments reduce estimation accuracy.
 * Webcam frame rate influences measurement precision.
 * This project is intended for research and educational purposes only and should not be used as a medical device.
-
----
-
-# Future Improvements
-
-* MediaPipe Face Mesh integration
-* GPU acceleration
-* Respiratory rate estimation
-* HRV analysis
-* Multi-person support
-* Deep-learning-based rPPG algorithms
-* Skin segmentation
-* Real-time SpO₂ estimation
-* Cross-platform desktop application
-
----
 
 # Citation
 
