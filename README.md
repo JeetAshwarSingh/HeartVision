@@ -423,4 +423,4 @@ If you use this project in your research, please cite:
 # License
 
 This project is intended for academic, educational and research purposes.
-Please refer to the repository license for usage terms.
+Pull requests are welcome to this repository. If you are planning to do something, consider opening an issue first so we can discuss the direction before you may write the code.
